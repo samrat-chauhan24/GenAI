@@ -1,0 +1,11 @@
+# langchain
+langchain
+langchain-core
+
+groq
+langchain-groq
+
+langchain-huggingface 
+huggingface_hub
+
+python-dotenv
